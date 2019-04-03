@@ -5,6 +5,7 @@ git clone https://github.com/ryuta69/xvideo-youtube-niconico-soundcloud-download
 ### or download zip
 brew install youtube-dl libav ffmpeg
 ### if you are windows, read https://teki0918.hatenablog.jp/entry/youtube-dl-windpws (japanese)
+pip install beautifulsoup4
 ```
 
 # how to use

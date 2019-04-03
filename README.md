@@ -21,12 +21,9 @@ just paste url.
 
 Example:
 
-[xvideo 1 movie] https://www.xvideos.com/video10675294/blonde
-
-[xvideo 1 playlist] https://www.xvideos.com/c/Blonde-20
-
-[youtube 1 movie] https://www.youtube.com/watch?v=28htv_LIwcM
-
-[youtube 1 playlist] https://www.youtube.com/playlist?list=PLZWB2wzAxoVAIBVUqCZ84jqOyMKzLSVUq
+```bash
+python3 main.py https://www.youtube.com/playlist?list=PLZWB2wzAxoVAIBVUqCZ84jqOyMKzLSVUqf 
+### movie url and playlist url both are available
+```
 
 Xvideos, Youtube, NicoNico, Soundcloud is available.
